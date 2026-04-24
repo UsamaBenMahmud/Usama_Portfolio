@@ -67,7 +67,7 @@ export default function About() {
                     Usama Ben Mahmud
                   </p>
                   <p className={`text-xs ${isDark ? 'text-gray-500' : 'text-gray-400'}`}>
-                    <img src="src/images/usama.jpg" alt="Usama Ben Mahmud" />
+                    <img src="/usama.jpg" alt="Usama Ben Mahmud" />
                   </p>
                 </div>
               </div>
